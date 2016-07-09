@@ -15,7 +15,7 @@ import java.util.Random;
 public class FunFacts extends AppCompatActivity {
     public static final String TAG = FunFacts.class.getSimpleName();
     private FactBook mFactBook = new FactBook();
-    private ColorWheel mColorWheel = new ColorWheel();
+    private  ColorWheel mColorWheel = new ColorWheel();
 
     // Declare View variables
     private TextView mFactTextView;
